@@ -1,3 +1,11 @@
 {
-  "templates": []
+  "templates": [
+    {
+      "id": "e8497719-9abf-4d70-b647-460e4bf5a5f6",
+      "name": "New Threat Model",
+      "description": "asfd",
+      "tags": [],
+      "modelRef": "c431f38a-a0e8-4322-9676-40816662f2cf"
+    }
+  ]
 }
